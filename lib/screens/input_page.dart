@@ -24,7 +24,7 @@ class _InputPageState extends State<InputPage> {
   int height = 180;
   int weight = 60;
   int age = 25;
-
+//.
   @override
   Widget build(BuildContext context) {
     return Scaffold(
